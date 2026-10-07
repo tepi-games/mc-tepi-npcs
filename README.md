@@ -1,3 +1,3 @@
-<p align="center"><img src="./titles/title.png" width="400px"></p>
+# Minecraft Tepi NPCs
 
 > This addon is under development.
